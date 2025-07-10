@@ -67,7 +67,7 @@ El objetivo principal es permitir a las empresas llevar el control integral de s
 
 bash
 git clone https://github.com/CarlosRuiz2025/CRMAPI_Proyecto.git
-cd gestion-clientes-crm
+cd CRMAPI_Proyecto
 
 
 2. Instalar dependencias:
