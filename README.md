@@ -1,6 +1,6 @@
 # 🏢 Sistema de Gestión de Clientes Empresariales - API CRM
 
-![Diagrama de la Base de Datos](https://i.imgur.com/psXAAeL_d.webp?maxwidth=760\&fidelity=grand.jpg)
+![Diagrama de la Base de Datos](https://imgur.com/a/Ws2f9cd)
 
 ## 📘 Descripción
 
