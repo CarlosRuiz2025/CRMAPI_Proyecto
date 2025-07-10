@@ -66,7 +66,7 @@ El objetivo principal es permitir a las empresas llevar el control integral de s
 1. Clonar el repositorio:
 
 bash
-git clone https://github.com/CarlosRuiz2025/gestion-clientes-crm.git
+git clone https://github.com/CarlosRuiz2025/CRMAPI_Proyecto.git
 cd gestion-clientes-crm
 
 
@@ -84,10 +84,11 @@ PORT=3000
 JWT_SECRET=clave_super_secreta
 
 
-4. Ejecutar las migraciones de la base de datos:
+4. Ejecutar el comando prisma en la terminal del Visual Code:
 
 bash
-npx prisma migrate dev
+npx prisma bd pull
+npx prisma generate
 
 
 ---
@@ -97,7 +98,7 @@ npx prisma migrate dev
 * Levantar el servidor backend:
 
 bash
-npm run dev
+npm start
 
 
 * Ver la documentación Swagger:
@@ -118,28 +119,30 @@ http://localhost:3000/api/CRM/api-docs
 
 ## 📀 Estructura del Proyecto
 
-
+prisma/
+├── schema.prisma
 src/
-├── controllers/
-├── routes/
-├── services/
-├── models/
-├── middlewares/
-├── prisma/
-├── docs/ (Swagger)
 ├── auth/
-└── ...
+├── config/
+├── controllers/
+├── docs/
+├── mappers/
+├── models/
+├── routes/
+├── schemas/
+├── services/
+├── shared/
 
 
 ---
 
 ## 💼 Curso
 
-*Taller de Programación Web*
+*Servicios Web*
 
 ## 👨‍🎓 Docente
 
-*Diego Fernando Baes Vásquez*
+*Juan Antonio Marquina Ventura*
 
 ---
 
