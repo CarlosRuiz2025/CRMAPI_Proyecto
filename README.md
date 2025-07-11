@@ -104,8 +104,7 @@ npm start
 * Ver la documentación Swagger:
 
 
-http://localhost:3000/api/CRM/api-docs
-
+https://crm-proyecto-production.up.railway.app/api/CRM/api-docs/#/
 
 ---
 
