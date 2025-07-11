@@ -2,11 +2,62 @@
 
 ![Diagrama de la Base de Datos](https://i.imgur.com/hB5WPDD.png)
 
+## 👥 Integrantes
+
+* Carlos Andrés Ruiz Miranda
+* Eber Anderson Cárdenas Ramírez
+* Juan Dennis Herrera Lurita
+* Mendieta Jimene Jeremy Aldair
+* Aurora Isabel Matta Collantes
+* Giomar Alexander Osorio Tapia
+
+---
+
+## 💼 Curso
+
+*Servicios Web*
+
+## 👨‍🎓 Docente
+
+*Juan Antonio Marquina Ventura*
+
+---
+
 ## 📘 Descripción
 
 El *Sistema de Gestión de Clientes Empresariales (CRM API)* es una solución backend desarrollada con *Node.js, TypeScript y Prisma, orientada a automatizar y optimizar la administración de relaciones con clientes, tareas, oportunidades, contactos y más. Este sistema expone una **API RESTful segura, documentada con **Swagger, y con validaciones robustas implementadas mediante **Joi*.
 
 El objetivo principal es permitir a las empresas llevar el control integral de sus clientes corporativos y los procesos comerciales asociados de manera eficiente y escalable.
+
+---
+
+## 📀 Estructura del Proyecto
+
+prisma/
+
+├── schema.prisma
+
+src/
+
+├── auth/
+
+├── config/
+
+├── controllers/
+
+├── docs/
+
+├── mappers/
+
+├── models/
+
+├── routes/
+
+├── schemas/
+
+├── services/
+
+├── shared/
 
 ---
 
@@ -111,58 +162,6 @@ https://crm-proyecto-production.up.railway.app/api/CRM/api-docs/#/
 1. Asegúrate de que PostgreSQL esté en ejecución.
 2. Crea una base de datos llamada BdCRM.
 3. Ajusta las credenciales en el .env.
-
----
-
-## 📀 Estructura del Proyecto
-
-prisma/
-
-├── schema.prisma
-
-src/
-
-├── auth/
-
-├── config/
-
-├── controllers/
-
-├── docs/
-
-├── mappers/
-
-├── models/
-
-├── routes/
-
-├── schemas/
-
-├── services/
-
-├── shared/
-
-
----
-
-## 💼 Curso
-
-*Servicios Web*
-
-## 👨‍🎓 Docente
-
-*Juan Antonio Marquina Ventura*
-
----
-
-## 👥 Integrantes
-
-* Carlos Andrés Ruiz Miranda
-* Eber Anderson Cárdenas Ramírez
-* Juan Dennis Herrera Lurita
-* Mendieta Jimene Jeremy Aldair
-* Aurora Isabel Matta Collantes
-* Giomar Alexander Osorio Tapia
 
 ---
 
