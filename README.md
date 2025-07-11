@@ -7,7 +7,7 @@
 * Carlos Andrés Ruiz Miranda
 * Eber Anderson Cárdenas Ramírez
 * Juan Dennis Herrera Lurita
-* Mendieta Jimenez Jeremy Aldair
+* Jeremy Aldair Mendieta Jimenez
 * Aurora Isabel Matta Collantes
 * Giomar Alexander Osorio Tapia
 
