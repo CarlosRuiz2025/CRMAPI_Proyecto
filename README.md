@@ -86,6 +86,7 @@ JWT_SECRET=clave_super_secreta
 
 
 npx prisma bd pull
+
 npx prisma generate
 
 
@@ -95,7 +96,6 @@ npx prisma generate
 
 * Levantar el servidor backend:
 
-bash
 npm start
 
 
