@@ -65,14 +65,12 @@ El objetivo principal es permitir a las empresas llevar el control integral de s
 
 1. Clonar el repositorio:
 
-bash
 git clone https://github.com/CarlosRuiz2025/CRMAPI_Proyecto.git
 cd CRMAPI_Proyecto
 
 
 2. Instalar dependencias:
 
-bash
 npm install
 
 
@@ -86,7 +84,7 @@ JWT_SECRET=clave_super_secreta
 
 4. Ejecutar el comando prisma en la terminal del Visual Code:
 
-bash
+
 npx prisma bd pull
 npx prisma generate
 
