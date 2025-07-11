@@ -117,17 +117,29 @@ https://crm-proyecto-production.up.railway.app/api/CRM/api-docs/#/
 ## 📀 Estructura del Proyecto
 
 prisma/
+
 ├── schema.prisma
+
 src/
+
 ├── auth/
+
 ├── config/
+
 ├── controllers/
+
 ├── docs/
+
 ├── mappers/
+
 ├── models/
+
 ├── routes/
+
 ├── schemas/
+
 ├── services/
+
 ├── shared/
 
 
