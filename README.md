@@ -31,6 +31,10 @@ El objetivo principal es permitir a las empresas llevar el control integral de s
 
 ---
 
+* Documento Funcional:
+
+https://docs.google.com/document/d/1d7azSBvqi57i_j6NJTNhxfmXjQJllRJe/edit?usp=sharing&ouid=116865092121484401470&rtpof=true&sd=true 
+
 ## 📀 Estructura del Proyecto
 
 prisma/
@@ -155,10 +159,6 @@ npm start
 
 https://crm-proyecto-production.up.railway.app/api/CRM/api-docs/#/
 
-
-* Documento Funcional:
-
-https://docs.google.com/document/d/1d7azSBvqi57i_j6NJTNhxfmXjQJllRJe/edit?usp=sharing&ouid=116865092121484401470&rtpof=true&sd=true 
 
 ---
 
